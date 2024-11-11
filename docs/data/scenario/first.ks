@@ -45,7 +45,7 @@
 
 勇者は慎重に足元を確認し、罠を巧みに避けることができた。[l][r]
 だが、その先には巨大な石像が待ち受けていた。[r]
-
+[bg storage=statue.png time=500]
 「これが最終的な試練だ。」[l][r]
 
 [link target=*tag_puzzle] →石像の謎を解く [endlink][r]
@@ -70,7 +70,7 @@
 
 [cm]
 
-[bg storage=fight.jpg time=500]
+[bg storage=fight.png time=500]
 
 勇者は石像に挑み、激しい戦闘を繰り広げた。[l][r]
 だが、石像の力には敵わなかった。[r]
